@@ -118,11 +118,11 @@ const time2 = moment().tz("Asia/Jakarta").format("HH:mm:ss");
     }
  // BATAS \\
 menusimpel = false
-banChats = false;
+banChats = true;
 offline = false;
 antidel = false;
-welcom = false;
-antical = false
+welcom = true;
+antical = true 
 readGc = true; 
 readPc = false;
 autovn = true;
@@ -133,8 +133,8 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "917736622139"; 
-owner = "917736622139"; 
+targetpc = "919061572947"; 
+owner = "919061572947"; 
 fakeyoi = "Pepe Sir"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
